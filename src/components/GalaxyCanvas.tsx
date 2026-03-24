@@ -14,6 +14,10 @@ export function GalaxyCanvas({ className }: { className?: string }) {
       className={className}
       camera={{ position: [0, 0, 35], fov: 60, near: 0.1, far: 500 }}
       gl={{ antialias: true, alpha: false, preserveDrawingBuffer: true }}
+      onCreated={({ raycaster }) => {
+        raycaster.params.Mesh!.threshold = 0.3;
+        raycaster.params.Points!.threshold = 0.5;
+      }}
       style={{ background: "#000" }}
     >
       <ambientLight intensity={0.15} />

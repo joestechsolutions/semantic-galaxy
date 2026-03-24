@@ -2,10 +2,10 @@
 export const GALAXY_RADIUS = 15;
 
 /** Size of individual point sprites */
-export const POINT_SIZE = 0.12;
+export const POINT_SIZE = 0.18;
 
 /** Size of highlighted (search result) points */
-export const HIGHLIGHT_SIZE = 0.25;
+export const HIGHLIGHT_SIZE = 0.3;
 
 /** Camera distance when focusing on a point */
 export const FOCUS_DISTANCE = 3;

@@ -46,8 +46,8 @@ export function ClusterBoundaries() {
     <group>
       {hulls.map((hull, i) => (
         <group key={i}>
-          {/* Transparent fill */}
-          <mesh geometry={hull.geometry}>
+          {/* Transparent fill — raycast disabled so points behind are clickable */}
+          <mesh geometry={hull.geometry} raycast={() => null}>
             <meshBasicMaterial
               color={hull.color}
               transparent
@@ -56,9 +56,10 @@ export function ClusterBoundaries() {
               depthWrite={false}
             />
           </mesh>
-          {/* Wireframe outline */}
+          {/* Wireframe outline — also non-interactive */}
           <lineSegments
             geometry={new THREE.EdgesGeometry(hull.geometry)}
+            raycast={() => null}
           >
             <lineBasicMaterial color={hull.color} transparent opacity={0.25} />
           </lineSegments>
