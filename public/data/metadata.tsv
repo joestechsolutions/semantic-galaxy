@@ -1,0 +1,474 @@
+label	type	source	detail
+RenFaire	project	entity	project
+Joe	person	entity	person
+Figma	tool	entity	tool
+JTS	project	entity	project
+Skate Workshop	project	entity	project
+Supabase	company	entity	company
+Airbnb	company	entity	company
+Ollama	tool	entity	tool
+Veronica	person	entity	person
+Cursor	tool	entity	tool
+Claude Code	tool	entity	tool
+Anthropic	company	entity	company
+OpenClaw	company	entity	company
+n8n	tool	entity	tool
+Lucie	person	entity	person
+Vincent Milou	person	entity	person
+Sakura	person	entity	person
+Willy Santos	person	entity	person
+Skategrounds	company	entity	company
+Next.js	tool	entity	tool
+Expo	tool	entity	tool
+WhisperWalkie	project	entity	project
+Lurkr MCP	project	entity	project
+Tavily	company	entity	company
+Notion	company	entity	company
+AI Call Analytics SaaS	project	entity	project
+Mobile Wireframe UI Kit	project	entity	project
+Airbnb DLS	project	entity	project
+Figma's official MCP guide	project	entity	project
+Code Connect	tool	entity	tool
+Crosstalk-Solutions	company	entity	company
+project-nomad	project	entity	project
+Wikipedia	project	entity	project
+Khan Academy	project	entity	project
+Stitch	project	entity	project
+mcporter	tool	entity	tool
+stitch-mcp	tool	entity	tool
+Playwright Chromium	tool	entity	tool
+Brave	tool	entity	tool
+shadcn/ui	project	entity	project
+React	tool	entity	tool
+openclaw	project	entity	project
+Tailwind	tool	entity	tool
+@21st-dev/magic	tool	entity	tool
+@21st-dev/cli	tool	entity	tool
+Gartner Digital Workplace Summit	project	entity	project
+Hostinger	company	entity	company
+Gartner Summit	project	entity	project
+Telegram	tool	entity	tool
+GitHub	company	entity	company
+renfaire-directory	project	entity	project
+joestechsolutions-nextjs	project	entity	project
+Nemotron	tool	entity	tool
+Gemini Flash	tool	entity	tool
+Upskilling in the Age of AI and Agent Systems	project	entity	project
+Figma MCP	tool	entity	tool
+ui-ux-pro-max-skill	tool	entity	tool
+Workday	tool	entity	tool
+Greenhouse	tool	entity	tool
+Qualtrics	tool	entity	tool
+Airtable	tool	entity	tool
+Asana	tool	entity	tool
+Airbnb Connect Engineering Apprenticeship	project	entity	project
+Skate Workshop app	project	entity	project
+MediaPipe	tool	entity	tool
+BlazePose	tool	entity	tool
+Lucie Schoonheere	person	entity	person
+Sakura Yosozumi	person	entity	person
+Claude	tool	entity	tool
+GPT-5	tool	entity	tool
+Claude 4.5	tool	entity	tool
+Slack	company	entity	company
+Claude 3.5 Sonnet	tool	entity	tool
+OpenAI o1	tool	entity	tool
+Gemini 2.0 Flash	tool	entity	tool
+Next.js 15.2	project	entity	project
+OpenClaw	tool	entity	tool
+React 18.3	tool	entity	tool
+TypeScript 5.5	tool	entity	tool
+Node.js 22 LTS	tool	entity	tool
+Get Shit Done	project	entity	project
+PortAudio	tool	entity	tool
+pynput	tool	entity	tool
+Ogham MCP	project	entity	project
+Mem0	project	entity	project
+Zep/Graphiti	project	entity	project
+Hindsight	project	entity	project
+Airbnb Connect	project	entity	project
+meta-llama/llama-3.3-70b-instruct	project	entity	project
+Joe (Hyphy)	person	entity	person
+OpenYogaClaw	project	entity	project
+supervisor	tool	entity	tool
+gog	tool	entity	tool
+github	tool	entity	tool
+slack	tool	entity	tool
+session-logs	tool	entity	tool
+summarize	tool	entity	tool
+google/gemini-2.5-flash	tool	entity	tool
+OpenRouter	company	entity	company
+Lurkr Agent	project	entity	project
+Lurkr GSC Client	project	entity	project
+Claude Cowork	project	entity	project
+figma-developer-mcp	project	entity	project
+Telegram	company	entity	company
+qwen2.5:7b	tool	entity	tool
+Samsung	company	entity	company
+Lurkr-bot	project	entity	project
+daily-brief-personal-work	project	entity	project
+Open WebUI	tool	entity	tool
+Gemini	tool	entity	tool
+Llama	tool	entity	tool
+Renaissance Fair Directory	project	entity	project
+Ryan	person	entity	person
+Greg Isenberg	person	entity	person
+Frey Chu	person	entity	person
+Outscraper	tool	entity	tool
+Crawl4AI	tool	entity	tool
+Claude Vision	tool	entity	tool
+pgvector	tool	entity	tool
+RenFaire Directory	project	entity	project
+Vercel	company	entity	company
+Lucide	tool	entity	tool
+Airbnb-style	tool	entity	tool
+JEF World of Golf Automated Putting Cup	project	entity	project
+Dick's Sporting Goods	company	entity	company
+Aaron 'Car Dude'	person	entity	person
+N57	tool	entity	tool
+LLM Stats	project	entity	project
+Gemini CLI	tool	entity	tool
+Copilot	tool	entity	tool
+Google Developers	company	entity	company
+Gemini 3	project	entity	project
+Google Antigravity	project	entity	project
+Changelogs.directory	tool	entity	tool
+supervisor skill playbooks	project	entity	project
+OpenAI Codex App	project	entity	project
+Tech Mahindra	company	entity	company
+MLcon San Diego 2026	project	entity	project
+TechCon Global	project	entity	project
+AdSense	tool	entity	tool
+Notion	tool	entity	tool
+RenFaire Directory — Project Hub	project	entity	project
+Llama 4	project	entity	project
+Stripe Sync Engine	tool	entity	tool
+StartupSD Quarterly Meetup	project	entity	project
+TechCon SoCal 2026	project	entity	project
+Cloudflare	company	entity	company
+CiteAnalytics	tool	entity	tool
+Startup San Diego	company	entity	company
+journalctl	tool	entity	tool
+OpenAI Codex App	tool	entity	tool
+Figma	company	entity	company
+Syntheia	company	entity	company
+Domino Data Lab	company	entity	company
+Next.js 16	tool	entity	tool
+Techstars Startup Weekend Women San Diego	project	entity	project
+Datadog	company	entity	company
+Google's Agent Development Kit (ADK)	tool	entity	tool
+vLLM	project	entity	project
+TensorRT-LLM	project	entity	project
+Next.js v16	project	entity	project
+TypeScript	tool	entity	tool
+Apple	company	entity	company
+Joseph Miller	person	entity	person
+Pause AI	company	entity	company
+React 19	project	entity	project
+Google Search Console	tool	entity	tool
+Awin	company	entity	company
+MasterTag	tool	entity	tool
+BookingSearchWidget	project	entity	project
+Brave Search	tool	entity	tool
+The Renlist	company	entity	company
+SSR near-me page	project	entity	project
+RenFaire Guide	project	entity	project
+Shop Secondhand Faire Costumes	project	entity	project
+buildThredUpUrl	tool	entity	tool
+Google Gemini	tool	entity	tool
+AI Studio	tool	entity	tool
+Anthropic Sonnet	tool	entity	tool
+Nicolas Mora	person	entity	person
+Turno	project	entity	project
+Twilio	tool	entity	tool
+Calendly	tool	entity	tool
+Google Sheets	tool	entity	tool
+Airbnb Booking Monitor	project	entity	project
+Airbnb Cleaner Dispatch	project	entity	project
+Airbnb Inbound Message Handler	project	entity	project
+Google Sheet tracker	tool	entity	tool
+Nick Mora — Airbnb Cleaning Tracker	project	entity	project
+Telegram bot	tool	entity	tool
+@NickCleanBot	tool	entity	tool
+Nick Mora	person	entity	person
+Lurk Report	project	entity	project
+Claude Opus	tool	entity	tool
+Muse Content Creator	tool	entity	tool
+Lurkr system	project	entity	project
+Iowa Renaissance Festival	project	entity	project
+Great Dickens Christmas Fair	project	entity	project
+Supabase	tool	entity	tool
+Joe's Tech Solutions LLC	company	entity	company
+Brave	company	entity	company
+Booking	company	entity	company
+ThredUp	company	entity	company
+Heartbeat	tool	entity	tool
+Logo deployment	project	entity	project
+Ai2	company	entity	company
+OLMo Hybrid 7B	project	entity	project
+OpenAI	company	entity	company
+GPT-5.3 Codex	project	entity	project
+Gemini 3.1 Pro	tool	entity	tool
+GTC 2026	project	entity	project
+Jensen	person	entity	person
+AdSense Approval Monitor	project	entity	project
+Google Cloud	company	entity	company
+NVIDIA GTC	project	entity	project
+Taltz	tool	entity	tool
+Gmail	company	entity	company
+RenFaire	company	entity	company
+framer-motion	tool	entity	tool
+stripe	tool	entity	tool
+@vercel/analytics	tool	entity	tool
+@vercel/speed-insights	tool	entity	tool
+tailwind-merge	tool	entity	tool
+eslint	tool	entity	tool
+Amazon	company	entity	company
+DeepSeek V4	project	entity	project
+GPT-5.4	project	entity	project
+NemoClaw	tool	entity	tool
+Claude Sonnet 4.6	project	entity	project
+Gemini 3.1 Pro	project	entity	project
+MiniMax M2.5	project	entity	project
+GLM-5	project	entity	project
+Grok 4.20	project	entity	project
+Astro	project	entity	project
+Framer Motion	tool	entity	tool
+Copilot relay	tool	entity	tool
+gateway	tool	entity	tool
+Playwright	tool	entity	tool
+Scribe Weekly Docs Audit	project	entity	project
+GetYourGuide	company	entity	company
+Karpathy	person	entity	person
+autoresearch	project	entity	project
+Mira Murati	person	entity	person
+Thinking Machines Labs	company	entity	company
+Microsoft	company	entity	company
+M365 Copilot	tool	entity	tool
+Hugging Face	company	entity	company
+Nick	person	entity	person
+Opus 4.6	tool	entity	tool
+Claude Code CLI	tool	entity	tool
+n8n	project	entity	project
+Cryphy	person	entity	person
+n8n 2.8.3	tool	entity	tool
+n8n Switch node v3.2	tool	entity	tool
+Carlos	person	entity	person
+Morgan Stanley	company	entity	company
+AutoHarness	project	entity	project
+The Agentic AI Book	project	entity	project
+ResearchAndMarkets	company	entity	company
+Info-Tech	company	entity	company
+React Native	tool	entity	tool
+Clerk	tool	entity	tool
+Instagram	tool	entity	tool
+Pulse	project	entity	project
+Summit	person	entity	person
+Google Sheet	tool	entity	tool
+PR #16	project	entity	project
+PR #17	project	entity	project
+PR #18	project	entity	project
+IBM WatsonX	project	entity	project
+Cerebras	company	entity	company
+Claude Opus 4.6	tool	entity	tool
+Claude Sonnet 4.6	tool	entity	tool
+Nicholas Carlini	person	entity	person
+GPT-5.4	tool	entity	tool
+Stripe	company	entity	company
+youtube-launchpad	project	entity	project
+Nemotron 3 Super	tool	entity	tool
+Content Pipeline	project	entity	project
+Instagram automation tool	project	entity	project
+social-poster	project	entity	project
+Instagram	company	entity	company
+ShopCard	project	entity	project
+ScrollCarousel	tool	entity	tool
+PR #21	project	entity	project
+PR #22	project	entity	project
+minimax-m2.7	tool	entity	tool
+opus-4-6	tool	entity	tool
+Jensen Huang	person	entity	person
+NemoClaw	project	entity	project
+Groq	company	entity	company
+Hunter Alpha	project	entity	project
+Xiaomi	company	entity	company
+TRUMP AMERICA AI Act	project	entity	project
+Sen. Blackburn	person	entity	person
+Ben Thompson	person	entity	person
+Siri	tool	entity	tool
+Shakudo	company	entity	company
+FirstWave Innovator HackNight	project	entity	project
+Social Poster	project	entity	project
+RenFaire SEO health check	project	entity	project
+Weekly Lab Review	project	entity	project
+Pulse agent	tool	entity	tool
+NVIDIA GTC 2026	project	entity	project
+Vera Rubin	person	entity	person
+Hunter Alpha	tool	entity	tool
+DevOpsCon	project	entity	project
+Cage	tool	entity	tool
+ElevenLabs TTS	tool	entity	tool
+Vault	project	entity	project
+Archer	project	entity	project
+Tavily	tool	entity	tool
+Ahrefs	tool	entity	tool
+SEMrush	tool	entity	tool
+goplaces	tool	entity	tool
+openclaw-sandbox	tool	entity	tool
+get_figma_data	tool	entity	tool
+download_figma_images	tool	entity	tool
+Code Connect	project	entity	project
+Stitch MCP	tool	entity	tool
+Stitch CLI	tool	entity	tool
+shadcn/ui	tool	entity	tool
+RenFaire Inbox Monitor	project	entity	project
+joestechsolutions/whisper-walkie	project	entity	project
+[2026-03-23] Figma MCP — IN PROGRESS: - `figma-developer-mcp` v0.7.1 installed g	semantic	memory	figma_mcp_—_in_progress
+[2026-03-23] Org Chart Deliverables (completed ~11:30 PM 03/22): - 3 HTML pages 	semantic	memory	org_chart_deliverables_(completed_~11:30_pm_03/22)
+"[2026-03-23] Figma MCP — COMPLETE: - Token generated: ""Lurkr MCP"" (90-day, expir"	semantic	memory	figma_mcp_—_complete
+[2026-03-23] Figma MCP Playbook Created: - Comprehensive guide: `figma-mcp-playb	semantic	memory	figma_mcp_playbook_created
+[2026-03-23] System State at 00:12 AM PT: - Sites: 200/200 (perfect uptime all d	semantic	memory	system_state_at_00:12_am_pt
+[2026-03-23] Stitch MCP — RESOLVED (via Claude Code session ~5:30 PM PT): - **Ol	semantic	memory	stitch_mcp_—_resolved_(via_claude_code_session_~5:
+[2026-03-23] Control UI Dashboard — FIXED (1:05 PM PT): - **Problem:** `http://l	procedural	memory	control_ui_dashboard_—_fixed_(1:05_pm_pt)
+[2026-03-23] 21st.dev Component Library — QUEUED: - Joe flagged https://21st.dev	semantic	memory	21st.dev_component_library_—_queued
+[2026-03-23] Ambient Pulse Checks (01:12-01:21 AM PT): - Sites: 200/200 - RenFai	episodic	memory	ambient_pulse_checks_(01:12-01:21_am_pt)
+[2026-03-23] Upcoming Events (Today): - **Gartner Digital Workplace Summit:** Ma	episodic	memory	upcoming_events_(today)
+[2026-03-23] Morning Activation Brief (07:44 AM PT): - Sent morning brief to Joe	episodic	memory	morning_activation_brief_(07:44_am_pt)
+[2026-03-23] Skills Audit & Cleanup (12:18 PM PT): - Trashed 6 dead/unassigned s	semantic	memory	skills_audit_&_cleanup_(12:18_pm_pt)
+[2026-03-23] Joe's Career Direction (12:41 PM PT): - Joe interested in: Staff AI	episodic	memory	joe's_career_direction_(12:41_pm_pt)
+[2026-03-23] Skate Workshop - Sensor Integration Idea (6:22 PM PT): - Joe brains	semantic	memory	skate_workshop_-_sensor_integration_idea_(6:22_pm_
+[2026-03-23] OpenClaw Update (10:00 AM PT): - Joe approved update from morning b	episodic	memory	openclaw_update_(10:00_am_pt)
+[2026-03-23] Anthropic Auth Outage & Recovery (10:08 AM PT): - **Duration:** ~6 	procedural	memory	anthropic_auth_outage_&_recovery_(10:08_am_pt)
+[2026-03-23] Daily Maintenance (2026-03-23 04:38 AM PT): - Security audit: 0 cri	semantic	memory	daily_maintenance_(2026-03-23_04:38_am_pt)
+[2026-03-23] Google Search Console — COMPLETE: - **OAuth client created** in GCP	semantic	memory	google_search_console_—_complete
+[2026-03-23] Nightly Research (10:00 PM PT): **Note:** Cron session sandboxed wi	semantic	memory	nightly_research_(10:00_pm_pt)
+[2026-03-23] Career Direction Correction (1:29 PM PT): - Joe clarified: NOT read	episodic	memory	career_direction_correction_(1:29_pm_pt)
+"[2026-03-23] GSD Skill Evaluation (12:58 PM PT): - Joe asked about ""Get Shit Don"	semantic	memory	gsd_skill_evaluation_(12:58_pm_pt)
+[2026-03-23] WhisperWalkie Debugging (3:00-6:00 PM PT): - Joe building WhisperWa	procedural	memory	whisperwalkie_debugging_(3:00-6:00_pm_pt)
+"[2026-03-23] Memory Architecture Deep Research (11:36 PM PT): - Joe asked: ""Are "	semantic	memory	memory_architecture_deep_research_(11:36_pm_pt)
+[2026-03-23] Documents Created Today: - documents/veronica-agentic-design-guide.	semantic	memory	documents_created_today
+[2026-03-23] Ambient Pulse Checks (Evening): - 7:15 PM: Health 15ok/9warn/1fail 	episodic	memory	ambient_pulse_checks_(evening)
+[2026-03-23] Project N.O.M.A.D. (Offline Backup) — COMPLETE: - Installed from `g	semantic	memory	project_n.o.m.a.d._(offline_backup)_—_complete
+"[2026-03-23] Veronica's Design Guide (11:20 AM PT): - Created ""Upskilling in the"	semantic	memory	veronica's_design_guide_(11:20_am_pt)
+[2026-02-10] Healthcheck Skill Audit - 2026-02-10: **openclaw security audit res	episodic	memory	healthcheck_skill_audit_-_2026-02-10
+[2026-02-11] Healthcheck Skill Audit - 2026-02-11 (re-run 14): **openclaw securi	episodic	memory	healthcheck_skill_audit_-_2026-02-11_(re-run_14)
+[2026-02-12] Major Setup Session — 2026-02-12: Claude Code session with Joe (Hyp	semantic	memory	major_setup_session_—_2026-02-12
+[2026-02-13] Heartbeat Warnings (2026-02-13): - 7 error(s) in gateway logs (last	semantic	memory	heartbeat_warnings_(2026-02-13)
+[2026-02-14] HEARTBEAT WARNING: The `diagnose.sh` script reported '8 error(s) in	procedural	memory	heartbeat_warning:_the_`diagnose.sh`_script_report
+[2026-03-18] 2:09 PM — Sites OK, PR #21 pending Joe review: Ambient pulse: renfa	semantic	memory	2:09_pm_—_sites_ok,_pr_#21_pending_joe_review
+[2026-02-15] Nightly Research: *   North American LLM market projected to hit $1	semantic	memory	nightly_research
+[2026-02-16] Heartbeat 2026-02-16 23:54 PST: - **Ollama Status:** Still intentio	semantic	memory	heartbeat_2026-02-16_23:54_pst
+[2026-02-17] Heartbeat Check (11:31 PM PT): - **Health Status:** 13 ok, 5 warn, 	episodic	memory	heartbeat_check_(11:31_pm_pt)
+[2026-02-18] Nightly Research - 2026-02-18: *   **AI/LLM News:**     *   LLM Upd	semantic	memory	nightly_research_-_2026-02-18
+[2026-02-19] - Heartbeat (11:00 PM): diagnose.sh warnings: - 3 error(s) in gatew	semantic	memory	-_heartbeat_(11:00_pm):_diagnose.sh_warnings
+[2026-02-19] RenFaire Directory Project — Evening Session: - **Project:** Renais	semantic	memory	renfaire_directory_project_—_evening_session
+[2026-02-20] Heartbeat update (10:34 AM):: - 5 error(s) in gateway logs (last ho	episodic	memory	heartbeat_update_(10:34_am):
+"[2026-03-18] 2:19 PM — PR #21 merged to production: Joe said ""push to production"	semantic	memory	2:19_pm_—_pr_#21_merged_to_production
+[2026-02-20] Major Session Progress (Feb 20, 2026): ### Supabase Memory System —	semantic	memory	major_session_progress_(feb_20,_2026)
+[2026-02-20] RenFaire Directory — Full Pipeline Complete (Afternoon Session): ##	semantic	memory	renfaire_directory_—_full_pipeline_complete_(after
+[2026-02-20] Purchase Reminder (1-2 days): - **Item:** JEF World of Golf Automat	semantic	memory	purchase_reminder_(1-2_days)
+[2026-02-20] Personal — BMW X5 Turbo Issue: - **Car:** 2015 BMW X5 diesel (N57 e	semantic	memory	personal_—_bmw_x5_turbo_issue
+[2026-02-21] Nightly Research: - **AI/LLM News:** LLM Stats (llm-stats.com) is a	semantic	memory	nightly_research
+[2026-02-22] [WARN] Large session (2.2M): 1b0d5a6e-3747-4dda-aaed-68a0d9a8386f.j	semantic	memory	[warn]_large_session_(2.2m):_1b0d5a6e-3747-4dda-aa
+[2026-02-23] Heartbeat - 2026-02-23 11:05 PM: ### System Diagnose Report - **War	semantic	memory	heartbeat_-_2026-02-23_11:05_pm
+"[2026-02-24] Nightly Research: - **OpenAI Codex App (Feb 2026):** New macOS ""com"	semantic	memory	nightly_research
+[2026-02-25] RenFaire Directory Project - Progress (2026-02-25): **AdSense & Mon	semantic	memory	renfaire_directory_project_-_progress_(2026-02-25)
+[2026-02-25] Nightly Research: **AI & LLM News** - **Llama 4 leaks/rumors:** Men	semantic	memory	nightly_research
+[2026-02-26] Nightly Research: ### AI & LLM News - **Cloudflare & Agentic Coding	semantic	memory	nightly_research
+[2026-02-26] Heartbeat @ 10:02 PM PST - New Gateway Error & Recurring Warnings: 	procedural	memory	heartbeat_@_10:02_pm_pst_-_new_gateway_error_&_rec
+[2026-02-27] Daily OpenClaw Status Check (11:00 PM): **CLI Update Status:** - In	episodic	memory	daily_openclaw_status_check_(11:00_pm)
+[2026-02-28] Heartbeat Check - 2026-02-28 18:54 PST: - [WARN] Large session (6.2	episodic	memory	heartbeat_check_-_2026-02-28_18:54_pst
+[2026-02-28] Nightly Research: - **AI/LLM News**   - **OpenAI Codex App:** Relea	semantic	memory	nightly_research
+[2026-03-01] Heartbeat @ 7:30 PM: - **Health Check:** 15 ok, 5 warn, 0 fail   - 	semantic	memory	heartbeat_@_7:30_pm
+[2026-03-01] Nightly Research: - **AI/LLM News:**   - **MIT Research (Feb 2026):	semantic	memory	nightly_research
+[2026-03-02] Nightly Research - March 2nd, 2026: *   **AI/LLM News:**     *   LL	semantic	memory	nightly_research_-_march_2nd,_2026
+[2026-03-03] Google Search Console Structured Data Fixes (4 AM - 10 AM): - Fixed	procedural	memory	google_search_console_structured_data_fixes_(4_am_
+[2026-03-03] Booking.com Affiliate Integration (11:12 AM): - **Awin partnership 	semantic	memory	booking.com_affiliate_integration_(11:12_am)
+[2026-03-03] Awin Publisher MasterTag + Homepage Widget + Deep Links (11:23 AM):	semantic	memory	awin_publisher_mastertag_+_homepage_widget_+_deep_
+"[2026-03-03] SEO Rankings (11:36 AM): - #1 on Brave Search for ""renaissance fair"	semantic	memory	seo_rankings_(11:36_am)
+[2026-03-03] Backlink Target List for Ryan (11:57 AM - 12:01 PM): - Compiled 5-t	semantic	memory	backlink_target_list_for_ryan_(11:57_am_-_12:01_pm
+[2026-03-03] SEO Content Push (12:12 PM - 12:30 PM): - **SSR near-me page** — wa	semantic	memory	seo_content_push_(12:12_pm_-_12:30_pm)
+[2026-03-03] SMTP + Outreach (1:05 PM - 2:00 PM): - **hello@renfaireguide.com SM	semantic	memory	smtp_+_outreach_(1:05_pm_-_2:00_pm)
+[2026-03-03] Inbox Monitoring Setup (3:12 PM): - Created check-renfaire-inbox.py	semantic	memory	inbox_monitoring_setup_(3:12_pm)
+"[2026-03-03] ThredUp Costume Affiliate (3:17 PM): - Added ""Shop Secondhand Faire"	semantic	memory	thredup_costume_affiliate_(3:17_pm)
+[2026-03-03] Joe's Evening Review (9:10 PM): - Joe asked for summary of all 12 o	semantic	memory	joe's_evening_review_(9:10_pm)
+[2026-03-03] Heartbeat Status (recurring all day): - Health: 14 ok, 6 warn, 0 fa	semantic	memory	heartbeat_status_(recurring_all_day)
+[2026-03-03] Pending / Next Steps: - Internal linking pass across 19 blog posts 	semantic	memory	pending_/_next_steps
+[2026-03-03] Writing Preference (10:49 PM): - **Joe hates em dashes (—).** Never	observational	memory	writing_preference_(10:49_pm)
+"[2026-03-04] Heartbeat 08:01 — Cron Job Failure: **Issue:** ""The Lurk Report — D"	semantic	memory	heartbeat_08:01_—_cron_job_failure
+[2026-03-04] Heartbeat 14:11 (2:11 PM) — Cron Job Disabled: **Action taken:** Di	semantic	memory	heartbeat_14:11_(2:11_pm)_—_cron_job_disabled
+[2026-03-04] Nick Mora — Airbnb Cleaner Automation Project (2:00-2:30 PM): **Cli	semantic	memory	nick_mora_—_airbnb_cleaner_automation_project_(2:0
+[2026-03-04] Nick Mora Project — Build Progress (2:30-3:08 PM): ### N8N Workflow	semantic	memory	nick_mora_project_—_build_progress_(2:30-3:08_pm)
+[2026-03-04] Heartbeat 16:34 (4:34 PM) — Diagnose.sh SIGTERM: **Issue:** `diagno	semantic	memory	heartbeat_16:34_(4:34_pm)_—_diagnose.sh_sigterm
+[2026-03-04] Heartbeats 16:37–16:58 — Rapid-fire heartbeat storm: **Issue:** Hea	semantic	memory	heartbeats_16:37–16:58_—_rapid-fire_heartbeat_stor
+[2026-03-05] Heartbeat - 2026-03-05 9:31 PM (America/Los_Angeles): **System Heal	semantic	memory	heartbeat_-_2026-03-05_9:31_pm_(america/los_angele
+[2026-03-06] Cron Events: **08:03 AM - Daily Build Health Check (joestechsolutio	episodic	memory	cron_events
+[2026-03-06] Heartbeat Checks: - 04:00 AM: 5 cron jobs in error (API limits/spen	episodic	memory	heartbeat_checks
+[2026-03-06] Muse Content Drop: **11:00 AM - Muse Content Creator triggered** - 	semantic	memory	muse_content_drop
+[2026-03-06] RenFaire SEO Audit & Fixes: **11:15 AM - 11:46 AM** (ongoing) - Joe	procedural	memory	renfaire_seo_audit_&_fixes
+[2026-03-06] System Health: - Large session bloat: 553d8247 (3.2M) - 18 deleted 	semantic	memory	system_health
+[2026-03-06] Google Business Profile (GBP) Setup: - **Business:** Joe's Tech Sol	semantic	memory	google_business_profile_(gbp)_setup
+"[2026-03-06] JTS Rebranding / Logo Update: - **New Design:** Minimalist ""JTS"" le"	episodic	memory	jts_rebranding_/_logo_update
+[2026-03-06] Portfolio Update (RenFaire Case Study): - **Status:** Started work 	episodic	memory	portfolio_update_(renfaire_case_study)
+[2026-03-06] System Health (Update): - Heartbeat (12:40 PM): 14 ok, 4 warn, 1 fa	episodic	memory	system_health_(update)
+[2026-03-06] Nightly Research (10:00 PM): ### AI / LLM News 1. **Ai2 releases OL	semantic	memory	nightly_research_(10:00_pm)
+[2026-03-07] Heartbeat 5:38 AM: - Diagnostics: 6 gateway log errors detected (ne	semantic	memory	heartbeat_5:38_am
+[2026-03-08] Self-Improvement (8:04 PM): **Cycle:** Weekly MEMORY.md consolidati	semantic	memory	self-improvement_(8:04_pm)
+[2026-03-09] Morning Brief (8:01 AM): - No calendar events today; tomorrow remin	episodic	memory	morning_brief_(8:01_am)
+[2026-03-09] Cron: Weekly Dependency Update (9:02 AM): **Repo:** joestechsolutio	episodic	memory	cron:_weekly_dependency_update_(9:02_am)
+[2026-03-09] SEO Emergency Fix (afternoon session with Joe via Claude Code): ###	procedural	memory	seo_emergency_fix_(afternoon_session_with_joe_via_
+[2026-03-09] RenFaire Site Revamp Review (6:18 PM): Joe had Claude Code revamp t	semantic	memory	renfaire_site_revamp_review_(6:18_pm)
+[2026-03-09] Nightly Research (10:00 PM): 1. **DeepSeek V4 imminent** — Trillion	semantic	memory	nightly_research_(10:00_pm)
+[2026-03-10] Heartbeat — 08:17 AM: - diagnose.sh: 13 ok, 7 warn, 1 transient (ra	semantic	memory	heartbeat_—_08:17_am
+[2026-03-10] RenFaire Redesign — Deployed ~9:30 AM: Joe + Claude Code shipped th	semantic	memory	renfaire_redesign_—_deployed_~9:30_am
+[2026-03-10] OpenClaw Gateway Fix — ~9:48 AM: - Extension (Copilot relay) couldn	procedural	memory	openclaw_gateway_fix_—_~9:48_am
+[2026-03-10] GSC Indexing — Quota Exceeded ~10:00 AM: - Attempted `/faires` inde	semantic	memory	gsc_indexing_—_quota_exceeded_~10:00_am
+"[2026-03-10] Heartbeat — 11:04 AM: - Cron alert: ""Scribe Weekly Docs Audit"" (11e"	semantic	memory	heartbeat_—_11:04_am
+[2026-03-10] RenFaire Instagram Strategy — 7:59 PM: - GetYourGuide Travel Creato	semantic	memory	renfaire_instagram_strategy_—_7:59_pm
+[2026-03-12] Nightly Research: *Auto-generated 2026-03-12 05:30 PT*  ### AI / LL	semantic	memory	nightly_research
+[2026-03-12] Lesson Learned — Use the Agent Hierarchy: Joe called me out (rightf	procedural	memory	lesson_learned_—_use_the_agent_hierarchy
+[2026-03-12] Nick Cleaning Automation — Cascade Dispatch Build: ### What happene	semantic	memory	nick_cleaning_automation_—_cascade_dispatch_build
+[2026-03-12] Nick Cascade Dispatch — WORKING (12:49 PM PT): ### End-to-End Flow 	semantic	memory	nick_cascade_dispatch_—_working_(12:49_pm_pt)
+[2026-03-12] Cascade Dispatch — Post-Fix Testing (12:49-12:56 PM PT): ### Forge 	procedural	memory	cascade_dispatch_—_post-fix_testing_(12:49-12:56_p
+[2026-03-12] Nick Cleaning Assistant — Joe's Manual Fix (2:30-3:00 PM PT): ### C	procedural	memory	nick_cleaning_assistant_—_joe's_manual_fix_(2:30-3
+[2026-03-12] Cascade Dispatch — FULLY WORKING (4:47 PM PT): Claude Code fixed th	semantic	memory	cascade_dispatch_—_fully_working_(4:47_pm_pt)
+[2026-03-13] Nightly Research: ### AI / LLM News - **Morgan Stanley warns massiv	semantic	memory	nightly_research
+[2026-03-15] Self-Improvement (1:00 AM): **Cycle:** Weekly MEMORY.md consolidati	semantic	memory	self-improvement_(1:00_am)
+[2026-03-20] Nightly Research: - **AI/LLM News**: Apple announced a completely r	semantic	memory	nightly_research
+[2026-03-16] Social Media Capability Upgrade (12:02 PM): Joe sent 8 screenshots 	semantic	memory	social_media_capability_upgrade_(12:02_pm)
+[2026-03-16] OpenClaw Snapshot System (12:38 PM): - Built `~/scripts/openclaw-sn	semantic	memory	openclaw_snapshot_system_(12:38_pm)
+[2026-03-16] Morning Brief (7:30 AM): - NVIDIA GTC keynote at 11 AM PT (Jensen's	episodic	memory	morning_brief_(7:30_am)
+[2026-03-16] RenFaire SEO PR #15 Merged & Deployed (3:48 PM): - Joe approved pus	semantic	memory	renfaire_seo_pr_#15_merged_&_deployed_(3:48_pm)
+[2026-03-16] Nick Mora Demo Status (updated): - Outreach email sent to Nick with	episodic	memory	nick_mora_demo_status_(updated)
+[2026-03-16] 30-Day LinkedIn Calendar Delivered: - Complete calendar in `social-	semantic	memory	30-day_linkedin_calendar_delivered
+[2026-03-16] Ambient Pulse (3:51 PM & 3:55 PM): - Sites: renfaireguide.com ✅ 200	episodic	memory	ambient_pulse_(3:51_pm_&_3:55_pm)
+[2026-03-16] RenFaire Data Quality Audit (4:34 PM): **Goal:** 30K visitors/month	semantic	memory	renfaire_data_quality_audit_(4:34_pm)
+[2026-03-16] Nightly Research (10:00 PM): ### AI / LLM News 1. **NVIDIA GTC 2026	semantic	memory	nightly_research_(10:00_pm)
+[2026-03-17] 12:31 AM — Stripe→Sheet Sync Job in Error State: - Job `418aab50` f	procedural	memory	12:31_am_—_stripe→sheet_sync_job_in_error_state
+[2026-03-17] 09:17 AM — Daily Maintenance Checks: - **Sites:** Both 200 (renfair	episodic	memory	09:17_am_—_daily_maintenance_checks
+[2026-03-17] Timeline: - 9:14 PM: First visual upgrade merged and live on produc	semantic	memory	timeline
+[2026-03-17] 12:46 PM — Pre-compaction Memory Flush (Durable): - ✅ Skill: youtub	semantic	memory	12:46_pm_—_pre-compaction_memory_flush_(durable)
+[2026-03-17] 4:45 PM — Content Dashboard Media + N8N Pipeline: ### Dashboard Med	semantic	memory	4:45_pm_—_content_dashboard_media_+_n8n_pipeline
+[2026-03-17] 4:58 PM — Lesson: Subagent Verification Gap: Claude Code fixed 3 is	procedural	memory	4:58_pm_—_lesson:_subagent_verification_gap
+[2026-03-18] 12:47 AM — Social Poster Built: Claude Code completed the Instagram	semantic	memory	12:47_am_—_social_poster_built
+[2026-03-18] 2:48 AM — Social Poster Build Complete: Claude Code finished the In	semantic	memory	2:48_am_—_social_poster_build_complete
+[2026-03-18] 11:42 AM — Social Poster Security & Reliability Fixes (commit 29637	procedural	memory	11:42_am_—_social_poster_security_&_reliability_fi
+[2026-03-18] 12:15 PM — ShopCard Carousel + Category Products (PR #21): Implemen	semantic	memory	12:15_pm_—_shopcard_carousel_+_category_products_(
+[2026-03-18] 12:48 PM — Late Morning Brief: Sent afternoon brief to Joe (should 	episodic	memory	12:48_pm_—_late_morning_brief
+[2026-03-18] 1:09 PM — ShopCard Fix (take 2): Joe frustrated that images were st	procedural	memory	1:09_pm_—_shopcard_fix_(take_2)
+[2026-03-18] 3:10 PM — PR #22: Category-Specific ShopCard (merged + deployed): J	semantic	memory	3:10_pm_—_pr_#22:_category-specific_shopcard_(merg
+[2026-03-18] 5:18 PM — PR #24 Merged: ThredUp Card Upgrade: PR #24 (`feat: Thred	semantic	memory	5:18_pm_—_pr_#24_merged:_thredup_card_upgrade
+[2026-03-18] 3:15 PM — Day Debrief & Lessons Learned: ### Issues today: 1. **Dir	procedural	memory	3:15_pm_—_day_debrief_&_lessons_learned
+[2026-03-18] 6:00-7:40 PM — RenFaire Premium Trip Cards + Affiliate Fix Blitz: #	procedural	memory	6:00-7:40_pm_—_renfaire_premium_trip_cards_+_affil
+[2026-03-18] Nightly Research (10:00 PM): ### 🔥 Big Stories 1. **NVIDIA GTC 2026	semantic	memory	nightly_research_(10:00_pm)
+[2026-03-19] Heartbeat @ 05:01 AM PT: **diagnose.sh:** Completed successfully (c	semantic	memory	heartbeat_@_05:01_am_pt
+[2026-03-21] Weekly Documentation Audit (11:00 AM): Completed Scribe's weekly do	semantic	memory	weekly_documentation_audit_(11:00_am)
+[2026-03-21] Next Saturday (Mar 28): - Watch for Scribe Weekly Docs Audit execut	semantic	memory	next_saturday_(mar_28)
+[2026-03-22] Self-Improvement (1:00 AM): **Cycle:** Weekly MEMORY.md consolidati	semantic	memory	self-improvement_(1:00_am)
+[2026-03-22] Morning Activation (7:35 AM PT): - Sent morning briefing to Joe via	semantic	memory	morning_activation_(7:35_am_pt)
+[2026-03-22] Ambient Pulse Monitoring (7:46 AM - 7:13 PM PT): - Ran ~40+ ambient	episodic	memory	ambient_pulse_monitoring_(7:46_am_-_7:13_pm_pt)
+"[2026-03-22] Joe's Question (7:05 PM PT): - Joe sent 3 images asking about ""RAG "	semantic	memory	joe's_question_(7:05_pm_pt)
+[2026-03-22] Infrastructure Upgrades (8:41 PM PT — via Claude Code): Joe + Claud	semantic	memory	infrastructure_upgrades_(8:41_pm_pt_—_via_claude_c
+[2026-03-22] Late Night Session (10:44 PM - 11:17 PM PT): ### Org Chart & Infras	semantic	memory	late_night_session_(10:44_pm_-_11:17_pm_pt)
+[2026-03-22] Enterprise Hardening Session (11:30 PM PT — via Claude Code): Major	semantic	memory	enterprise_hardening_session_(11:30_pm_pt_—_via_cl
+[2026-03-22] Awareness State (End of Day): - Last morning brief: 2026-03-22 07:3	semantic	memory	awareness_state_(end_of_day)
