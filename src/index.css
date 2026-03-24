@@ -55,3 +55,17 @@ body,
 .animate-spin-slow {
   animation: spin-slow 3s linear infinite;
 }
+
+/* Mobile-specific overrides */
+@media (max-width: 768px) {
+  body {
+    overscroll-behavior: none;
+  }
+  .safe-bottom {
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+}
+
+canvas {
+  touch-action: none;
+}
