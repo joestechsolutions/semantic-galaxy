@@ -970,10 +970,11 @@ export default function App() {
     try {
       setLoadStatus("Fetching embeddings...");
       const cacheBuster = `?t=${Date.now()}`;
+      const base = import.meta.env.BASE_URL;
       const [vectorsResp, metadataResp, edgesResp] = await Promise.all([
-        fetch(`/data/vectors.tsv${cacheBuster}`),
-        fetch(`/data/metadata.tsv${cacheBuster}`),
-        fetch(`/data/edges.tsv${cacheBuster}`).catch(() => null),
+        fetch(`${base}data/vectors.tsv${cacheBuster}`),
+        fetch(`${base}data/metadata.tsv${cacheBuster}`),
+        fetch(`${base}data/edges.tsv${cacheBuster}`).catch(() => null),
       ]);
 
       if (!vectorsResp.ok || !metadataResp.ok) {
