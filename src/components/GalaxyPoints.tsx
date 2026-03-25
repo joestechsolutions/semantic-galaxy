@@ -60,7 +60,7 @@ export function GalaxyPoints() {
   const dimensionMode = useGalaxyStore((s) => s.dimensionMode);
   const selectPoint = useGalaxyStore((s) => s.selectPoint);
   const setHoveredPoint = useGalaxyStore((s) => s.setHoveredPoint);
-  const setAutoRotate = useGalaxyStore((s) => s.setAutoRotate);
+  const hoveredPoint = useGalaxyStore((s) => s.hoveredPoint);
   const pointColors = usePointColors();
 
   const highlightedIndices = useMemo(
@@ -91,6 +91,9 @@ export function GalaxyPoints() {
     return { highlighted: h, backgroundIndices: b };
   }, [points, highlightedIndices, selectedIndex]);
 
+  // Track which instance is hovered for scale-up effect
+  const hoveredInstanceRef = useRef<number | null>(null);
+
   // Instanced mesh for background
   const instancedRef = useRef<THREE.InstancedMesh>(null);
   const dummy = useMemo(() => new THREE.Object3D(), []);
@@ -108,6 +111,7 @@ export function GalaxyPoints() {
     if (!instancedRef.current) return;
     const mesh = instancedRef.current;
     const lerpSpeed = Math.min(delta * 3, 1);
+    const hovIdx = hoveredInstanceRef.current;
 
     backgroundIndices.forEach((pointIdx, instanceIdx) => {
       const target = targetPositions[pointIdx];
@@ -120,7 +124,11 @@ export function GalaxyPoints() {
       positionsRef.current[pointIdx] = current;
 
       dummy.position.set(current[0], current[1], current[2]);
-      dummy.scale.setScalar(1);
+
+      // Scale up the hovered instance for visual feedback
+      const isHovered = instanceIdx === hovIdx;
+      dummy.scale.setScalar(isHovered ? 2.2 : 1.0);
+
       dummy.updateMatrix();
       mesh.setMatrixAt(instanceIdx, dummy.matrix);
     });
@@ -152,11 +160,13 @@ export function GalaxyPoints() {
             e.stopPropagation();
             const idx = e.instanceId;
             if (idx !== undefined && backgroundIndices[idx] !== undefined) {
+              hoveredInstanceRef.current = idx;
               setHoveredPoint(points[backgroundIndices[idx]]);
               document.body.style.cursor = "pointer";
             }
           }}
           onPointerOut={() => {
+            hoveredInstanceRef.current = null;
             setHoveredPoint(null);
             document.body.style.cursor = "auto";
           }}
@@ -168,12 +178,10 @@ export function GalaxyPoints() {
             }
           }}
         >
-          <sphereGeometry args={[POINT_SIZE, 8, 8]} />
-          <meshStandardMaterial
-            emissive="#ffffff"
-            emissiveIntensity={0.5}
-            toneMapped={false}
+          <sphereGeometry args={[POINT_SIZE, 12, 12]} />
+          <meshBasicMaterial
             vertexColors
+            toneMapped={false}
           />
         </instancedMesh>
       )}
