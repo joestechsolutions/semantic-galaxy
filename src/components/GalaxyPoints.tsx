@@ -46,7 +46,7 @@ function InteractiveSphere({
       <meshStandardMaterial
         color={color}
         emissive={color}
-        emissiveIntensity={isHighlighted ? 2.5 : isSelected ? 3.0 : 0.8}
+        emissiveIntensity={isHighlighted ? 1.5 : isSelected ? 2.0 : 0.6}
         toneMapped={false}
       />
     </mesh>
@@ -127,7 +127,7 @@ export function GalaxyPoints() {
 
       // Scale up the hovered instance for visual feedback
       const isHovered = instanceIdx === hovIdx;
-      dummy.scale.setScalar(isHovered ? 2.2 : 1.0);
+      dummy.scale.setScalar(isHovered ? 2.5 : 1.0);
 
       dummy.updateMatrix();
       mesh.setMatrixAt(instanceIdx, dummy.matrix);
@@ -179,8 +179,10 @@ export function GalaxyPoints() {
           }}
         >
           <sphereGeometry args={[POINT_SIZE, 12, 12]} />
-          <meshBasicMaterial
+          <meshStandardMaterial
             vertexColors
+            emissive="#000000"
+            emissiveIntensity={0}
             toneMapped={false}
           />
         </instancedMesh>

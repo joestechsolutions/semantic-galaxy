@@ -20,8 +20,8 @@ export function GalaxyCanvas({ className }: { className?: string }) {
       }}
       style={{ background: "#000" }}
     >
-      <ambientLight intensity={0.15} />
-      <pointLight position={[20, 20, 20]} intensity={0.5} />
+      <ambientLight intensity={0.3} />
+      <pointLight position={[20, 20, 20]} intensity={0.4} />
 
       <Stars
         radius={100}
@@ -41,9 +41,9 @@ export function GalaxyCanvas({ className }: { className?: string }) {
 
       <EffectComposer>
         <Bloom
-          luminanceThreshold={0.2}
-          luminanceSmoothing={0.9}
-          intensity={1.5}
+          luminanceThreshold={0.7}
+          luminanceSmoothing={0.6}
+          intensity={0.8}
           mipmapBlur
         />
       </EffectComposer>
