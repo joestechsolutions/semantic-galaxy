@@ -8,6 +8,7 @@ import { SearchBar } from "./components/SearchBar";
 import { Sidebar } from "./components/Sidebar";
 import { MobilePanel } from "./components/MobilePanel";
 import { LoadingScreen } from "./components/LoadingScreen";
+import { KeymapOverlay } from "./components/KeymapOverlay";
 import Logo from "./components/Logo";
 
 export default function App() {
@@ -45,6 +46,7 @@ export default function App() {
       <Toolbar />
       <StatsHUD />
       <SearchBar />
+      <KeymapOverlay />
       {isMobile ? <MobilePanel /> : <Sidebar />}
     </div>
   );
